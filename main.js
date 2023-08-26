@@ -19,7 +19,7 @@ if(content=='circle')
 {
 x=Math.floor(Math.random()*900);
 y=Math.floor(Math.random()*600);
-document.getElementById("Status").innerHTML="Started Drawing Circle";
+document.getElementById("status").innerHTML="Started Drawing Circle";
 draw_circle="set";
 
 }
